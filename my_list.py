@@ -16,3 +16,6 @@ print(my_list)  # Output the updated contents of my_list
 
 my_list.extend(another_list)  # Extend my_list with another_list
 print(my_list)  # Output the final contents of my_list
+
+my_list.sort()  # Sort the list in ascending order
+print(my_list)  # Output the sorted contents of my_list
